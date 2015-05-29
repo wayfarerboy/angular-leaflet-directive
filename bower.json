@@ -47,6 +47,9 @@
   "overrides": {
     "Leaflet.utfgrid": {
       "main": "dist/leaflet.utfgrid.js"
+    },
+    "angular": {
+      "main": []
     }
   },
   "ignore": [
